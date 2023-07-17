@@ -18,7 +18,7 @@ export default class ChartScreen extends React.Component{
     render(){
         return(
             <SafeAreaView style={{backgroundColor:'white',flex:1,alignItems:'center'}}>
-                <Header/>
+                <Header goBack={()=>this.props.navigation.goBack()}/>
                 <ScrollView style={{width:'100%'}}>
                 <ChartModule/>
                 <ChatDetailsModal data={data} selectedId={this.state.selectedId} Selected={(value)=>this.setState({selectedId:value})}/>

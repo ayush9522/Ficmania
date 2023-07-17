@@ -6,6 +6,7 @@ INJECTED from /home/nii/Documents/ficmania/android/app/src/main/AndroidManifest.
 INJECTED from /home/nii/Documents/ficmania/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [:react-native-safe-area-context] /home/nii/Documents/ficmania/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/nii/Documents/ficmania/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /home/nii/Documents/ficmania/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.68.0] /home/nii/.gradle/caches/transforms-3/c8cd7762549206b8f00b1019bb506472/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nii/.gradle/caches/transforms-3/97f6a5c9d90c1faa13d8cdb00d843ac4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /home/nii/.gradle/caches/transforms-3/d2e0d0ccafba88cafbae14c7a7657c4e/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
@@ -133,6 +134,8 @@ MERGED from [:react-native-safe-area-context] /home/nii/Documents/ficmania/node_
 MERGED from [:react-native-safe-area-context] /home/nii/Documents/ficmania/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/nii/Documents/ficmania/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/nii/Documents/ficmania/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/nii/Documents/ficmania/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/nii/Documents/ficmania/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.0] /home/nii/.gradle/caches/transforms-3/c8cd7762549206b8f00b1019bb506472/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.68.0] /home/nii/.gradle/caches/transforms-3/c8cd7762549206b8f00b1019bb506472/transformed/jetified-react-native-0.68.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nii/.gradle/caches/transforms-3/97f6a5c9d90c1faa13d8cdb00d843ac4/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

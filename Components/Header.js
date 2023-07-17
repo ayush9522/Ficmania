@@ -13,7 +13,7 @@ export default class Header extends React.Component{
     render(){
         return(
             <View style={{width:'100%',justifyContent:'space-between',backgroundColor:'#2E2E2E',paddingTop:5,paddingBottom:5,flexDirection:'row',alignItems:'center'}}>
-                <TouchableOpacity style={{marginLeft:10}}>
+                <TouchableOpacity style={{marginLeft:10}} onPress={()=>this.props.goBack()}>
                     <Image style={{width:25,height:25,tintColor:'white'}}
                        source={require('../Images/arrow-left-33.png')}
                     />

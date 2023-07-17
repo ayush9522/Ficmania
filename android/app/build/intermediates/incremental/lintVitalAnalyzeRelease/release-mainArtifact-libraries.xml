@@ -65,6 +65,19 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
+      name="/home/nii/Documents/ficmania/android@@:react-native-svg::release"
+      jars="/home/nii/Documents/ficmania/node_modules/react-native-svg/android/build/.transforms/c279ac751be5696f38dec1aac3f5e0a6/transformed/out/jars/classes.jar"
+      resolved="ficmania:react-native-svg:unspecified"
+      folder="/home/nii/Documents/ficmania/node_modules/react-native-svg/android/build/.transforms/c279ac751be5696f38dec1aac3f5e0a6/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
       name="com.facebook.infer.annotation:infer-annotation:0.18.0@jar"
       jars="/home/nii/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.18.0/27539793fe93ed7d92b6376281c16cda8278ab2f/infer-annotation-0.18.0.jar"
       resolved="com.facebook.infer.annotation:infer-annotation:0.18.0"/>

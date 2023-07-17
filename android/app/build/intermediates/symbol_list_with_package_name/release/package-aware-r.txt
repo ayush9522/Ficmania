@@ -1367,10 +1367,13 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable images_arrowleft33
 drawable images_deerimg
 drawable images_eye
 drawable images_notview
+drawable images_plus34
 drawable images_right
+drawable images_usericon
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down

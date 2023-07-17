@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
-    },
-    {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_plus34.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_plus34.png"
     },
     {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
@@ -14,10 +14,6 @@
     {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
-    },
-    {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -36,12 +32,40 @@
         "source": "/home/nii/Documents/ficmania/android/app/src/main/res/drawable/rn_edit_text_material.xml"
     },
     {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_deerimg.jpg.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_deerimg.jpg"
+    },
+    {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_deerimg.jpg.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_deerimg.jpg"
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_arrowleft33.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_arrowleft33.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
@@ -52,10 +76,6 @@
         "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
@@ -64,23 +84,15 @@
         "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_right.png"
     },
     {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_eye.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_eye.png"
     },
     {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/drawable-mdpi_images_usericon.png.flat",
+        "source": "/home/nii/Documents/ficmania/android/app/build/generated/res/react/release/drawable-mdpi/images_usericon.png"
     },
     {
         "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
         "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/home/nii/Documents/ficmania/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/nii/Documents/ficmania/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]
